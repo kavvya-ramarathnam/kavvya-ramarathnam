@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kavvya-ramarathnam
+- 👀 I’m interested in learning software technologies and developing useful web applications to benefit the community
+- 📫 Please feel free to mail me at kavvya.ramarathnam@gmail.com
